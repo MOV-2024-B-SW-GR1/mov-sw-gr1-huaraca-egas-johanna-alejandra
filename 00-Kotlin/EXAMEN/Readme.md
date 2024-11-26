@@ -67,12 +67,17 @@ El sistema está basado en un menú interactivo que permite al usuario realizar 
 
 1. Crear un nuevo **Profesor**.
 2. Crear un nuevo **Estudiante**.
-3. Ver la lista de **Profesores**.
-4. Ver la lista de **Estudiantes**.
-5. Actualizar la información de un **Profesor**.
-6. Actualizar la información de un **Estudiante**.
-7. Eliminar un **Profesor**.
-8. Eliminar un **Estudiante**.
+3. Crear una nueva **Materia**.
+4. Ver la lista de **Profesores**.
+5. Ver la lista de **Estudiantes**.
+6. Ver la lista de **Materias**.
+7. Actualizar la información de un **Profesor**.
+8. Actualizar la información de un **Estudiante**.
+9. Actualizar la información de unA **Materia**.
+10. Eliminar un **Profesor**.
+11. Eliminar un **Estudiante**.
+12. Eliminar una **Materia**.
+
 
 ## Uso
 
